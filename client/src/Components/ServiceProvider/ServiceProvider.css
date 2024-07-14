@@ -1,0 +1,26 @@
+.service-header-container {
+  background: linear-gradient(to right, #e0e7ff, #ffffff); /* Light purple gradient */
+  padding: 20px;
+  text-align: left;
+  margin-top: 6.5%;
+}
+
+.service-breadcrumb {
+  font-size: 14px;
+  margin-bottom: 10px;
+  margin-left: 3%;
+  font-weight: bold;
+}
+
+.service-breadcrumb a {
+  color: black;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.service-page-title {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+  margin-left: 3%;
+}
